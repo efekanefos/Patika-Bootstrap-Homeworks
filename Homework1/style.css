@@ -1,0 +1,31 @@
+body {
+  background-color: #e9ecef !important;
+}
+.list {
+  list-style-position: inside;
+}
+.categoryTitle {
+  color: purple;
+}
+.productTitle {
+  color: darkgreen;
+}
+.costList {
+  list-style: none;
+}
+.container {
+  margin: 0 auto !important;
+  text-align: center !important;
+  align-items: center !important;
+}
+.card {
+  width: 20rem !important;
+  height: 30rem !important;
+}
+.card img {
+  width: 15rem;
+  height: 10rem;
+}
+.about-card {
+  width: 100% !important;
+}
