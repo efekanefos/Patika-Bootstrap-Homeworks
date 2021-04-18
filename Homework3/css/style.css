@@ -1,0 +1,191 @@
+.navbarbg {
+  height: 55px;
+  background-color: white;
+}
+.main {
+  margin-top: 80px;
+}
+.profilePhoto {
+  border-radius: 50%;
+  border: 2px solid white;
+}
+.logo {
+  padding-left: 5.3rem;
+}
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8 !important;
+  border: 1;
+  background: url(/Homework3/assets/search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 15px;
+  background-position: left;
+  padding-left: 40px;
+  background-position-x: 15px;
+}
+
+input.searche::placeholder {
+  font-size: 14px;
+  color: gray;
+  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 7%;
+}
+
+.body {
+  background-color: #f3f2ef;
+}
+
+.menutext {
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  margin-top: 5px;
+  font-weight: lighter;
+  font-weight: 700;
+}
+
+.menutext:hover {
+  color: black;
+}
+
+button.mediatext {
+  color: #5f5f5f;
+}
+
+button.mediatext:hover {
+  color: #5f5f5f;
+}
+
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+}
+
+i {
+  color: gray;
+  margin-top: 8px;
+}
+i:hover {
+  color: black;
+}
+
+input.content {
+  border-radius: 40px;
+  height: 45px;
+}
+input.content::placeholder {
+  font-weight: bolder;
+  font-size: 14px;
+  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+div.card {
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+.bookmarktext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+.left-side {
+  position: sticky !important;
+  overflow: visible !important;
+  top: 4rem;
+}
+.showMore:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.right-side {
+  position: sticky !important;
+  overflow: visible !important;
+  top: 4rem;
+}
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #5f5f5f;
+}
+
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+}
+
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+}
+
+button.ref {
+  color: white;
+}
+
+button.ref:hover {
+  color: #5f5f5f;
+}
+
+.postphoto {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+}
+.left-card-header {
+  background-image: url(https://media-exp1.licdn.com/dms/image/C4D16AQH7ixEhNE09aQ/profile-displaybackgroundimage-shrink_200_800/0/1610129800663?e=1624492800&v=beta&t=ro8IchRlgeY8hPjK1Fu7y4f0Ya-8FSPJN5cHOLfUaDI);
+  height: 53px;
+}
+.job-info {
+  margin-top: -15px;
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  color: #5f5f5f;
+}
+.pages {
+  margin-bottom: -22px;
+  font-size: 18px;
+}
+.page-item {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: -35px;
+  margin-left: 37px;
+}
+.page-notification {
+  font-size: 13px;
+  font-weight: bold;
+  color: gray;
+  margin-left: 38px;
+}
